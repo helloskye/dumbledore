@@ -1,0 +1,23 @@
+    body {
+      background-color:grey;
+    }
+    h1{color:#383838;
+      text-align: left;
+      padding-top: 1em;
+      font-family: "Arial";
+    }
+  blockquote{color: white;
+  background-color:#383838;
+  padding: 1em;
+  border-radius: 1em;
+  font-family: "Courier New"}
+  p#cat{color: #484848 ;
+    text-align: right;
+  font-style: bold;
+  font-size: large;
+  font-family: "Arial"}
+
+  p#dragon{color: #484848;
+  text-align: right;
+  font-style: italic;
+  font-family: "Arial"}
